@@ -42,7 +42,7 @@ This project is an interactive Coffee Sales Dashboard built using Microsoft Exce
 
 ![Coffee Sales Dashboard](./images/coffee_sales_dashboard.png)
 
-🔗 [View the Live Dashboard Here](#)
+🔗 [[View the Live Dashboard Here](https://onedrive.live.com/personal/91976C64FF383B6D/_layouts/15/Doc.aspx?resid=91976C64FF383B6D!s0ff63ceec5c54e0d82955e12c2874687&cid=91976C64FF383B6D&migratedtospo=true&app=Excel)](#)
 
 - **Total Sales Over Time**: A clear line chart that shows the sales trends of different coffee types from 2019 to 2022.
 - **Top 5 Customers**: A straightforward bar chart that highlights the top customers by their purchase amounts.
