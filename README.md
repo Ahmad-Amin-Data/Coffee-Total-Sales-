@@ -40,7 +40,7 @@ This project is an interactive Coffee Sales Dashboard built using Microsoft Exce
 
 ## Dashboard Visualizations
 
-![Coffee Sales Dashboard](images/Screenshot (196).png)
+![Coffee Sales Dashboard](images/Screenshot (196.png))
 
 🔗 [[View the Live Dashboard Here](https://onedrive.live.com/personal/91976C64FF383B6D/_layouts/15/Doc.aspx?resid=91976C64FF383B6D!s0ff63ceec5c54e0d82955e12c2874687&cid=91976C64FF383B6D&migratedtospo=true&app=Excel)]
 
