@@ -42,21 +42,13 @@ This project is an interactive Coffee Sales Dashboard built using Microsoft Exce
 
 ![Coffee Sales Dashboard](images/Screenshot (196).png)
 
-🔗 [[View the Live Dashboard Here](https://onedrive.live.com/personal/91976C64FF383B6D/_layouts/15/Doc.aspx?resid=91976C64FF383B6D!s0ff63ceec5c54e0d82955e12c2874687&cid=91976C64FF383B6D&migratedtospo=true&app=Excel)](#)
+🔗 [[View the Live Dashboard Here](https://onedrive.live.com/personal/91976C64FF383B6D/_layouts/15/Doc.aspx?resid=91976C64FF383B6D!s0ff63ceec5c54e0d82955e12c2874687&cid=91976C64FF383B6D&migratedtospo=true&app=Excel)]
 
 - **Total Sales Over Time**: A clear line chart that shows the sales trends of different coffee types from 2019 to 2022.
 - **Top 5 Customers**: A straightforward bar chart that highlights the top customers by their purchase amounts.
 - **Sales by Country**: A visual breakdown of where the highest sales are coming from.
 - **Interactive Filters**: Easy-to-use slicers that help you dig deeper by roast type, package size, and loyalty card usage.
 
-## Project Structure
-
-```
-│-- CoffeeSalesDashboard.xlsx    # Main Excel file with the dashboard
-│-- README.md                    # Project documentation
-│-- images/
-    └── coffee_sales_dashboard.png   # Dashboard screenshot
-```
 
 ## Insights and Recommendations
 
